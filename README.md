@@ -2,7 +2,7 @@
 
 A minimal startpage.
 
-![alt tag](http://i.imgur.com/bLJnKyA.png)
+![alt tag](https://cdn.discordapp.com/attachments/965969122640928878/1003707770752745522/Screenshot_2022-08-01_222549.png)
 
 To change the picture used as a bg in index.pixel.html:
 
